@@ -28,3 +28,6 @@
 
 **Outcome**: Successfully completing Level 3 certification means that the device is ready for real-world deployment. It can confidently process EMV transactions with various payment applications and networks, ensuring a seamless and secure payment experience for consumers and merchants.
 
+📫 I'm best reached via [Email](mailto:tuyenlq@hotmail.com.vn). I'm always open to interesting conversations and collaboration.
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-le-vietnam/)     [![Follow on X](https://img.shields.io/badge/X-Follow-black?logo=twitter&logoColor=white)](https://x.com/quang_tuyen)
